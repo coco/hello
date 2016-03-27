@@ -1,2 +1,3 @@
-# hello
-This is a great place for your thoughts, ideas, questions, feelings, or even rants!
+# hello there!
+
+[![Join the chat at https://gitter.im/nestlings/hello](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nestlings/hello?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
